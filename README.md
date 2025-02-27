@@ -1,4 +1,4 @@
-## Gerador de Senhas (em construção)
+## Gerador de Senhas
 
 Este é um gerador de senhas desenvolvido em **Node.js** e **TypeScript**, seguindo boas práticas de desenvolvimento como **SOLID**, **arquitetura MVC**, **tratamento de erros** e **testes unitários**.
 
